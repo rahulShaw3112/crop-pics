@@ -8,4 +8,5 @@ second arguement: './picturesCopy' is the source of the source folder
 third arguement: './doneCopy' is the source for destination folder
 
 https://pillow.readthedocs.io/en/stable/reference/Image.html
+#
 https://docs.python.org/2/library/multiprocessing.html
